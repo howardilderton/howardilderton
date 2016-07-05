@@ -13,11 +13,11 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://username.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+title: Howard Ilderton
+author: Howard Ilderton
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
+email: howard.ilderton@email.com
 github: howardilderton/sustain # username
 twitter: username
 linkedin: username
